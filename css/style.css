@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&family=Oswald:wght@200;300;400;500;600;700&display=swap");
+
+
+
+body { font-family: "Open Sans", sans-serif; }
+
+
+header {
+     min-height: 85vh;
+      background-image: url("../images/home-banner.jpg"); 
+      background-size: cover; 
+      background-repeat: no-repeat; }
+
+
+
+.navbar > .container, .navbar > .container-fluid, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container-xl, .navbar > .container-xxl {
+    
+    margin-top: 20px; }
+.navbar-expand-lg .navbar-nav .nav-link {
+     padding-right: 0.5rem; color: rgb(52, 30, 15);
+     
+     padding-left: 19px; font-family: Oswald, sans-serif;
+      font-size: 18px;
+       letter-spacing: 1px;
+        font-weight: 400;
+         text-transform: uppercase; }
+
+.navbar-expand-lg .navbar-nav .nav-link:hover { 
+    color: rgb(0, 131, 193); }
+
+.banner_content {
+     padding: 70px 10px; }
+.banner_content h1 {
+     color: rgb(255, 255, 255);
+      font-family: Oswald, sans-serif; 
+      font-size: 64px; }
+
+.banner_content p {
+     font-size: 20px; 
+     color: rgb(255, 255, 255); }
+
+.banner_content .btn-1 {
+     color: rgb(52, 30, 15);
+      font-size: 20px; 
+      font-weight: 600; 
+      background: rgb(255, 255, 255); 
+      padding: 8px 30px; }
+      
+.banner_content .btn-1:hover { background: rgb(52, 30, 15); color: rgb(255, 255, 255); }
+.product-section {padding: 50px 0;text-align: center;margin: 50px 0;}
+.product-section .heading { }
+.product-section .heading h2 {
+    font-size: 50px;
+    font-family: 'Oswald', sans-serif;
+    color: #803c25;
+}
+.product-section .heading p {color: #803c25;font-size: 21px;font-family: 'Oswald', sans-serif;letter-spacing: 1px;}
+.product-section .heading { }
+.product-img { }
+.product-img img { }
+.product-img h4 {color: #803c25;font-size: 20px;font-family: 'Oswald';font-weight: 500;margin: 10px 0;}
+.product-img a {color: #fff;background: #e80060;padding: 10px 21px;font-size: 13px;text-transform: uppercase;font-weight: 700;margin: 5px 0; border-radius: 0%;}
+.btn-2 { }
+.btn-3 {background: #01a49a !important;}
+.btn-4 {background: #ab593e !important;}
+.bg-blue{
+    background-color: #33d2e9;
+}
+.explore-section a{
+    
+color: #fff;
+    
+font-size: 48px;
+    
+font-weight: 800;
+    
+text-decoration: none;
+    
+text-transform: capitalize;
+    
+text-align: center;
+    
+width: 211px;
+    
+font-family: 'Oswald';
+}
+.explore-section .explore-img{
+    
+object-fit: cover;
+    
+height: 400px;
+    
+width: 100%;
+}
+
+
+
+
+
+
+ 
